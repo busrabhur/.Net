@@ -1,0 +1,8 @@
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\bin\Debug\operators.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\bin\Debug\operators.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\bin\Debug\operators.pdb
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\obj\Debug\operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\obj\Debug\operators.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\obj\Debug\operators.pdb
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\operators\obj\Debug\operators.csproj.AssemblyReference.cache

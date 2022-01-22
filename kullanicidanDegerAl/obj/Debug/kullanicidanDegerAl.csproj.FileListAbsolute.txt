@@ -1,0 +1,8 @@
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\bin\Debug\kullanicidanDegerAl.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\bin\Debug\kullanicidanDegerAl.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\bin\Debug\kullanicidanDegerAl.pdb
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\obj\Debug\kullanicidanDegerAl.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\obj\Debug\kullanicidanDegerAl.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\obj\Debug\kullanicidanDegerAl.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\obj\Debug\kullanicidanDegerAl.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\kullanicidanDegerAl\obj\Debug\kullanicidanDegerAl.pdb
