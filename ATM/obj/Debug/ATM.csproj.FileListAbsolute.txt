@@ -1,0 +1,7 @@
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\bin\Debug\ATM.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\bin\Debug\ATM.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\bin\Debug\ATM.pdb
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\obj\Debug\ATM.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\ATM\obj\Debug\ATM.pdb
