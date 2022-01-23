@@ -113,7 +113,7 @@ namespace TypeCasting
             int secNum = Convert.ToInt32(Console.ReadLine());
             int sum = firstNum + secNum;
             Console.WriteLine("toplam:"+sum);
-            Console.WriteLine("toplam:" +(firstNum+secNum)); //!!!! burada matematiksel toplamayı parantez içine almazsan string birleştirme givi davranıyor ,dikkat et.
+            Console.WriteLine("toplam:" +(firstNum+secNum)); //!!!! burada matematiksel toplamayı parantez içine almazsan string birleştirme gibi davranıyor ,dikkat et.
 
 
 
