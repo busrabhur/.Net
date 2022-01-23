@@ -1,0 +1,8 @@
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\bin\Debug\switch_case.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\bin\Debug\switch_case.pdb
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\obj\Debug\switch_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\obj\Debug\switch_case.exe
+C:\Users\busra\Desktop\C# proje denemeler\ConsoleApp1\switch_case\obj\Debug\switch_case.pdb
