@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\bin\Debug\firs_winform_project.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\bin\Debug\firs_winform_project.exe
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\bin\Debug\firs_winform_project.pdb
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.mainform.resources
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.exe
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\firs_winform_project\obj\Debug\firs_winform_project.pdb

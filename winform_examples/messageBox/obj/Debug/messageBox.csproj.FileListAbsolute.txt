@@ -1,0 +1,10 @@
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\bin\Debug\messageBox.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\bin\Debug\messageBox.exe
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\bin\Debug\messageBox.pdb
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.exe
+C:\Users\busra\Desktop\C# proje denemeler\firs_winform_project\messageBox\obj\Debug\messageBox.pdb

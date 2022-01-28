@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "216c5c95-3c48-41c1-82a3-53622a8830ce": {
+      "ProjectGuid": "216c5c95-3c48-41c1-82a3-53622a8830ce",
+      "DisplayName": "firs_winform_project",
+      "ColorIndex": 0
+    },
+    "9ae8188b-8869-449c-97d1-db6dc827a2ad": {
+      "ProjectGuid": "9ae8188b-8869-449c-97d1-db6dc827a2ad",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "6d792d5a-abd1-44a9-9fff-cee3b33ee611": {
+      "ProjectGuid": "6d792d5a-abd1-44a9-9fff-cee3b33ee611",
+      "DisplayName": "messageBox",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
