@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "button", "button\button.csproj", "{D8531160-F9F2-4A31-8D56-ADB70CE1EE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labell", "labell\labell.csproj", "{FA93147E-10B3-44C6-BC8C-516C103B5F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textbox", "textbox\textbox.csproj", "{592EC81E-27DC-4F79-AA70-373D83E2185F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radiobutton", "radiobutton\radiobutton.csproj", "{D7659487-B12E-4AF0-8901-D6DACEF63448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox", "checkbox\checkbox.csproj", "{F4913743-2B33-4473-91C4-A0363CA579F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comboBox", "comboBox\comboBox.csproj", "{0B4337AC-3C7A-40C4-9B62-DD09FF9836D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dateTimePicker", "dateTimePicker\dateTimePicker.csproj", "{B6341E93-995E-405F-BD64-D9E3140D1DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8531160-F9F2-4A31-8D56-ADB70CE1EE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8531160-F9F2-4A31-8D56-ADB70CE1EE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8531160-F9F2-4A31-8D56-ADB70CE1EE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8531160-F9F2-4A31-8D56-ADB70CE1EE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA93147E-10B3-44C6-BC8C-516C103B5F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA93147E-10B3-44C6-BC8C-516C103B5F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA93147E-10B3-44C6-BC8C-516C103B5F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA93147E-10B3-44C6-BC8C-516C103B5F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592EC81E-27DC-4F79-AA70-373D83E2185F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592EC81E-27DC-4F79-AA70-373D83E2185F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592EC81E-27DC-4F79-AA70-373D83E2185F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592EC81E-27DC-4F79-AA70-373D83E2185F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7659487-B12E-4AF0-8901-D6DACEF63448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7659487-B12E-4AF0-8901-D6DACEF63448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7659487-B12E-4AF0-8901-D6DACEF63448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7659487-B12E-4AF0-8901-D6DACEF63448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4913743-2B33-4473-91C4-A0363CA579F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4913743-2B33-4473-91C4-A0363CA579F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4913743-2B33-4473-91C4-A0363CA579F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4913743-2B33-4473-91C4-A0363CA579F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4337AC-3C7A-40C4-9B62-DD09FF9836D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4337AC-3C7A-40C4-9B62-DD09FF9836D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4337AC-3C7A-40C4-9B62-DD09FF9836D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4337AC-3C7A-40C4-9B62-DD09FF9836D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6341E93-995E-405F-BD64-D9E3140D1DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6341E93-995E-405F-BD64-D9E3140D1DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6341E93-995E-405F-BD64-D9E3140D1DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6341E93-995E-405F-BD64-D9E3140D1DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CE1F02-87D7-43AE-9893-615DB9B476B2}
+	EndGlobalSection
+EndGlobal

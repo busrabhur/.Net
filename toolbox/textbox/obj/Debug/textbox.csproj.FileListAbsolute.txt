@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\toolbox\textbox\bin\Debug\textbox.exe.config
+C:\Users\busra\source\repos\toolbox\textbox\bin\Debug\textbox.exe
+C:\Users\busra\source\repos\toolbox\textbox\bin\Debug\textbox.pdb
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.Form1.resources
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.Properties.Resources.resources
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.exe
+C:\Users\busra\source\repos\toolbox\textbox\obj\Debug\textbox.pdb

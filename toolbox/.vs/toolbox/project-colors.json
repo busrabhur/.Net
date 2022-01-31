@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8531160-f9f2-4a31-8d56-adb70ce1ee00": {
+      "ProjectGuid": "d8531160-f9f2-4a31-8d56-adb70ce1ee00",
+      "DisplayName": "button",
+      "ColorIndex": 0
+    },
+    "084898ed-8ee0-47fe-8b3e-a9c8dea955fa": {
+      "ProjectGuid": "084898ed-8ee0-47fe-8b3e-a9c8dea955fa",
+      "DisplayName": "label",
+      "ColorIndex": 1
+    },
+    "fa93147e-10b3-44c6-bc8c-516c103b5f62": {
+      "ProjectGuid": "fa93147e-10b3-44c6-bc8c-516c103b5f62",
+      "DisplayName": "labell",
+      "ColorIndex": 2
+    },
+    "592ec81e-27dc-4f79-aa70-373d83e2185f": {
+      "ProjectGuid": "592ec81e-27dc-4f79-aa70-373d83e2185f",
+      "DisplayName": "textbox",
+      "ColorIndex": 3
+    },
+    "d7659487-b12e-4af0-8901-d6dacef63448": {
+      "ProjectGuid": "d7659487-b12e-4af0-8901-d6dacef63448",
+      "DisplayName": "radiobutton",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

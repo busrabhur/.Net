@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\toolbox\labell\bin\Debug\labell.exe.config
+C:\Users\busra\source\repos\toolbox\labell\bin\Debug\labell.exe
+C:\Users\busra\source\repos\toolbox\labell\bin\Debug\labell.pdb
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.Form1.resources
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.Properties.Resources.resources
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.exe
+C:\Users\busra\source\repos\toolbox\labell\obj\Debug\labell.pdb

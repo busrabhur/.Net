@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\toolbox\checkbox\bin\Debug\checkbox.exe.config
+C:\Users\busra\source\repos\toolbox\checkbox\bin\Debug\checkbox.exe
+C:\Users\busra\source\repos\toolbox\checkbox\bin\Debug\checkbox.pdb
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.Form1.resources
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.exe
+C:\Users\busra\source\repos\toolbox\checkbox\obj\Debug\checkbox.pdb

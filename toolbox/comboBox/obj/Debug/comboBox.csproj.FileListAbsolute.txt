@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\toolbox\comboBox\bin\Debug\comboBox.exe.config
+C:\Users\busra\source\repos\toolbox\comboBox\bin\Debug\comboBox.exe
+C:\Users\busra\source\repos\toolbox\comboBox\bin\Debug\comboBox.pdb
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.Form1.resources
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.Properties.Resources.resources
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.exe
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.pdb
+C:\Users\busra\source\repos\toolbox\comboBox\obj\Debug\comboBox.csproj.AssemblyReference.cache
