@@ -1,0 +1,12 @@
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\bin\Debug\dataTransferBetweenForms.exe.config
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\bin\Debug\dataTransferBetweenForms.exe
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\bin\Debug\dataTransferBetweenForms.pdb
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.frmGetData.resources
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.frmShowData.resources
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.Properties.Resources.resources
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.exe
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.pdb
+C:\Users\busra\source\repos\toolbox\dataTransferBetweenForms\obj\Debug\dataTransferBetweenForms.csproj.AssemblyReference.cache
