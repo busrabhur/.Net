@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\Loops\while\bin\Debug\@while.exe.config
+C:\Users\busra\source\repos\Loops\while\bin\Debug\@while.exe
+C:\Users\busra\source\repos\Loops\while\bin\Debug\@while.pdb
+C:\Users\busra\source\repos\Loops\while\obj\Debug\while_doWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\Loops\while\obj\Debug\while.Form1.resources
+C:\Users\busra\source\repos\Loops\while\obj\Debug\while.Properties.Resources.resources
+C:\Users\busra\source\repos\Loops\while\obj\Debug\while_doWhile.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\Loops\while\obj\Debug\while_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Loops\while\obj\Debug\@while.exe
+C:\Users\busra\source\repos\Loops\while\obj\Debug\@while.pdb
