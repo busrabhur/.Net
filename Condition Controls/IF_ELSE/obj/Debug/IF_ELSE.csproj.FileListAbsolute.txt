@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\bin\Debug\IF_ELSE.exe.config
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\bin\Debug\IF_ELSE.exe
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\bin\Debug\IF_ELSE.pdb
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.Form1.resources
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.Properties.Resources.resources
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.exe
+C:\Users\busra\source\repos\Condition Controls\IF_ELSE\obj\Debug\IF_ELSE.pdb

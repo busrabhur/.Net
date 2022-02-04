@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7528fcb3-29b9-4b87-a68f-a7a83eb4df9f": {
+      "ProjectGuid": "7528fcb3-29b9-4b87-a68f-a7a83eb4df9f",
+      "DisplayName": "switch_case",
+      "ColorIndex": 0
+    },
+    "c50309a1-b0e5-4f46-bd5b-f6190fae31f8": {
+      "ProjectGuid": "c50309a1-b0e5-4f46-bd5b-f6190fae31f8",
+      "DisplayName": "messageBox_IFELSE",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

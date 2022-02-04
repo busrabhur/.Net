@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.Form1.resources
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.Properties.Resources.resources
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Condition Controls\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\busra\source\repos\Condition Controls\switch_case\bin\Debug\switch_case.exe
+C:\Users\busra\source\repos\Condition Controls\switch_case\bin\Debug\switch_case.pdb
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.exe
+C:\Users\busra\source\repos\Condition Controls\switch_case\obj\Debug\switch_case.pdb

@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.Form1.resources
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.Properties.Resources.resources
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\bin\Debug\messageBox_IFELSE.exe.config
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\bin\Debug\messageBox_IFELSE.exe
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\bin\Debug\messageBox_IFELSE.pdb
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.exe
+C:\Users\busra\source\repos\Condition Controls\messageBox_IFELSE\obj\Debug\messageBox_IFELSE.pdb
