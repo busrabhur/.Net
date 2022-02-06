@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ce09e63-8efe-4794-86ea-66406308d105": {
+      "ProjectGuid": "8ce09e63-8efe-4794-86ea-66406308d105",
+      "DisplayName": "arrays",
+      "ColorIndex": 0
+    },
+    "e63ac6cb-cbeb-43f8-b027-37aeeb456080": {
+      "ProjectGuid": "e63ac6cb-cbeb-43f8-b027-37aeeb456080",
+      "DisplayName": "arrays_console",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

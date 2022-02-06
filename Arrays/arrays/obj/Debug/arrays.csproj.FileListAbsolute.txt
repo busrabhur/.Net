@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\bin\Debug\arrays.exe
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.exe
+C:\Users\busra\Desktop\C# proje denemeler\Arrays\arrays\obj\Debug\arrays.pdb
