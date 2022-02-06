@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\bin\Debug\Method.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\bin\Debug\Method.exe
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\bin\Debug\Method.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.exe
+C:\Users\busra\Desktop\C# proje denemeler\Method\Method\obj\Debug\Method.pdb
