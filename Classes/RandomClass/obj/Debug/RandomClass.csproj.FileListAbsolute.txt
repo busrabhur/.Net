@@ -1,0 +1,10 @@
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\busra\Desktop\C# proje denemeler\Classes\RandomClass\obj\Debug\RandomClass.pdb
