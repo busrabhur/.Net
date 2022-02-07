@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\bin\Debug\calculator.exe
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.exe
+C:\Users\busra\Desktop\C# proje denemeler\Calculator\calculator\obj\Debug\calculator.pdb
