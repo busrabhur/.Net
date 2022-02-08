@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\busra\Desktop\C# proje denemeler\Inheritance\inheritance\obj\Debug\inheritance.pdb
