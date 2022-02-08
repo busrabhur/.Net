@@ -1,0 +1,12 @@
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.FormEmpDetails.resources
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\busra\Desktop\C# proje denemeler\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
