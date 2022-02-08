@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.Form1.resources
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.Properties.Resources.resources
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\bin\Debug\staticStatement.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\bin\Debug\staticStatement.exe
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\bin\Debug\staticStatement.pdb
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.exe
+C:\Users\busra\Desktop\C# proje denemeler\StaticStatement\staticStatement\obj\Debug\staticStatement.pdb
