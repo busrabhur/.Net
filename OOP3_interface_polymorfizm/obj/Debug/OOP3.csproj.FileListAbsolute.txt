@@ -1,0 +1,8 @@
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\bin\Debug\OOP3.exe
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\bin\Debug\OOP3.pdb
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\obj\Debug\OOP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\obj\Debug\OOP3.exe
+C:\Users\busra\Desktop\C# proje denemeler\Day5Camp\OOP3\obj\Debug\OOP3.pdb
