@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7f5f2db-b216-46b2-bdfc-a95faa47f183": {
+      "ProjectGuid": "d7f5f2db-b216-46b2-bdfc-a95faa47f183",
+      "DisplayName": "CampDay4",
+      "ColorIndex": 0
+    },
+    "ff76613e-3df1-4ca0-932b-1afbb0547c8c": {
+      "ProjectGuid": "ff76613e-3df1-4ca0-932b-1afbb0547c8c",
+      "DisplayName": "GenericsInfo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
